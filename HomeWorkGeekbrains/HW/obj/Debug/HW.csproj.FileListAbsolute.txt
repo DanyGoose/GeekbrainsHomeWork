@@ -1,0 +1,6 @@
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\bin\Debug\HW.exe
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\bin\Debug\HW.pdb
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\obj\Debug\HW.exe
+C:\Users\danil\RiderProjects\HomeWorkGeekbrains\HW\obj\Debug\HW.pdb
